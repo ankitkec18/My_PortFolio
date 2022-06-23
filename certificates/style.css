@@ -179,19 +179,19 @@ header .navbar ul li a:hover {
 /* hamburger icon ends */
 
 /* work section starts */
-.work{
+.cert{
   /* background: #010124; */
   background: var(--dark-blue);
   margin-top: 5rem;
 }
-.work h2{
+.cert h2{
   color: var(--black);
   padding: 1rem;
 }
-.work .heading span{
+.cert .heading span{
   color: var(--fade);
 }
-.work .button-group{
+.cert .button-group{
   display: flex;
   flex-wrap: wrap;
   gap:1rem;
@@ -200,7 +200,7 @@ header .navbar ul li a:hover {
   justify-content: center;
   align-items: center;
 }
-.work .button-group .btn{
+.cert .button-group .btn{
   outline: none;
   padding: 1rem 2rem;
   background: transparent;
@@ -210,21 +210,21 @@ header .navbar ul li a:hover {
   cursor: pointer;
   font-weight: 500;
 }
-.work .button-group .btn:hover{
+.cert .button-group .btn:hover{
   background-color: #fff;
   color: #000;
 }
-.work .button-group .btn.is-checked{
+.cert .button-group .btn.is-checked{
   background-color: #fff;
   color: #000;
 }
-.work .box-container{
+.cert .box-container{
   display: flex;
   flex-wrap: wrap;
   gap:1.5rem;
   margin: 2rem;
 }
-.work .box-container .box{
+.cert .box-container .box{
   flex:1 1 30rem;
   border-radius: .5rem;
   box-shadow: 0 .7rem 1rem rgba(0,0,0,.3);
@@ -233,12 +233,12 @@ header .navbar ul li a:hover {
   height:30rem;
   border: none;
 }
-.work .box-container .box img{
+.cert .box-container .box img{
   height: 100%;
   width:100%;
   object-fit: cover;
 }
-.work .box-container .box .content{
+.cert .box-container .box .content{
   height: 100%;
   width:100%;
   position: absolute;
@@ -247,7 +247,7 @@ header .navbar ul li a:hover {
   display: flex;
   flex-direction: column;
 }
-.work .box-container .box .content .tag{
+.cert .box-container .box .content .tag{
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -257,28 +257,28 @@ header .navbar ul li a:hover {
   padding-left: 1rem;
   background:var(--fade);
 }
-.work .box-container .box .content .tag h3{
+.cert .box-container .box .content .tag h3{
   font-size: 2rem;
 }
-.work .box-container .box:hover .content{
+.cert .box-container .box:hover .content{
   top: 25%;
 }
-.work .desc {
+.cert .desc {
   margin: 2rem;
   display: flex;
   flex-direction: column;
   justify-content: center;
 }
-.work .desc p{
+.cert .desc p{
   font-size: 1.5rem;
 }
-.work .desc .btns{
+.cert .desc .btns{
   display: flex;
   justify-content: space-between;
   width: 100%;
   margin-top: 2rem;
 }
-.work .desc .btns .btn{
+.cert .desc .btns .btn{
   line-height: 0;
   display: inline;
   padding: 1.5rem 2.5rem;
@@ -288,19 +288,19 @@ header .navbar ul li a:hover {
   background: var(--dark-blue);
   margin-right: 2rem;
 }
-.work .desc .btns .btn:hover{
+.cert .desc .btns .btn:hover{
   color: var(--pure);
 
 }
 
 @media screen and (max-width: 450px) {
-  .work .button-group{
+  .cert .button-group{
     width: 100%;
   }
-  .work .box-container{
+  .cert .box-container{
     margin: 0rem;
   }
-  .work .box-container .grid-item .box{
+  .cert .box-container .grid-item .box{
     width: 95% !important;
   }
 }

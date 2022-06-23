@@ -41,7 +41,7 @@ $(document).ready(function () {
       
       
       function showCertificates(Certificates) {
-          let certificatesContainer = document.querySelector(".work .box-container");
+          let certificatesContainer = document.querySelector("#certificates .box-container");
           let certificatesHTML = "";
          Certificates.forEach(Certificates => {
               certificatesHTML += `
@@ -56,7 +56,7 @@ $(document).ready(function () {
                 <p>${Certificates.desc}</p>
                 <div class="btns">
                   <a href="${Certificates.links.view}" class="btn" target="_blank"><i class="fas fa-eye"></i> View</a>
-                  <a href="${Certificates.links.code}" class="btn" target="_blank">Download <i class="fas fa-download"></i></a>
+                  <a href="${Certificates.links.download}" class="btn" target="_blank">Download <i class="fas fa-download"></i></a>
                 </div>
               </div>
             </div>
