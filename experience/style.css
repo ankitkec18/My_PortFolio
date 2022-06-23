@@ -303,7 +303,7 @@ header .navbar ul li a:hover{
   transition: 0.5s;
   color: var(--fade);
   background: var(--dark-blue);
-  box-shadow: 0px 5px 10px rgba(48, 68, 247, .6);
+  /* box-shadow: 0px 5px 10px rgba(48, 68, 247, .6); */
   text-align: center;
 }
 .morebtn .btn span {
