@@ -38,15 +38,7 @@ async function fetchData(type = "skills") {
               max: 15,
           });
           // <!-- tilt js effect ends -->
-       
-          /* ===== SCROLL REVEAL ANIMATION ===== */
-          const srtop = ScrollReveal({
-              origin: 'top',
-              distance: '80px',
-              duration: 1000,
-              reset: true
-          });
-       
+            
           /* SCROLL PROJECTS */
           srtop.reveal('.cert .box', { interval: 200 });
        
@@ -60,8 +52,3 @@ async function fetchData(type = "skills") {
           showCertificates(data);
        });
        
-       // <!-- tilt js effect starts -->
-       VanillaTilt.init(document.querySelectorAll(".tilt"), {
-          max: 15,
-       });
-       // <!-- tilt js effect ends -->
