@@ -5,58 +5,9 @@
             "image": "",
             "category": "2022",
             "links": {
-              "view": "slider",
-              "download": ""
-            }
-          },
-          {
-            "name": "b",
-            "desc": "",
-            "image": "",
-            "category": "2022",
-            "links": {
-              "view": "",
-              "download": ""
-            }
-          },
-          {
-            "name": "c",
-            "desc": "",
-            "image": "",
-            "category": "2021",
-            "links": {
-              "view": "",
-              "download": ""
-            }
-          },
-          {
-            "name": "d",
-            "desc": "",
-            "image": "",
-            "category": "2022",
-            "links": {
-              "view": "",
-              "download": ""
-            }
-          },
-          {
-            "name": "e",
-            "desc": "",
-            "image": "",
-            "category": "2022",
-            "links": {
-              "view": "",
-              "download": ""
-            }
-          },
-          {
-            "name": "e",
-            "desc": "",
-            "image": "",
-            "category": "2022",
-            "links": {
-              "view": "",
+              "view": "./slider",
               "download": ""
             }
           }
+         
         ]
