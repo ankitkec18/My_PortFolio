@@ -665,14 +665,14 @@ header .navbar ul li a:hover {
   /* background: #010124; */
   background: var(--dark-blue);
 }
-.work   h2 {
+.work  h2 {
   color: var(--black);
   padding: 1rem;
 }
 .work  .heading span {
   color: var(--fade);
 }
-.work  .box-container {
+.work .box-container {
   display: flex;
   flex-wrap: wrap;
   gap: 1.5rem;
@@ -953,6 +953,127 @@ header .navbar ul li a:hover {
 }
 /* experience media queries ends */
 /* experience section ends */
+/* cert section starts */
+.cert  {
+  /* background: #010124; */
+  background: var(--dark-blue);
+}
+.cert  h2 {
+  color: var(--black);
+  padding: 1rem;
+}
+.cert  .heading span {
+  color: var(--fade);
+}
+.cert .box-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  margin: 2rem;
+}
+.cert  .box-container .box {
+  flex: 1 1 30rem;
+  border-radius: 0.5rem;
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
+  position: relative;
+  overflow: hidden;
+  height: 30rem;
+}
+.cert  .box-container .box img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+.cert  .box-container .box .content {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 85%;
+  left: 0;
+  background: rgba(255, 255, 255, 0.9);
+  display: flex;
+  flex-direction: column;
+}
+.cert  .box-container .box .content .tag {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: 4.5rem;
+  width: 100%;
+  padding-left: 1rem;
+ background:var(--fade);
+}
+.cert  .box-container .box .content .tag h3 {
+  font-size: 2rem;
+}
+.cert  .box-container .box:hover .content {
+  top: 25%;
+}
+.cert  .desc {
+  margin: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.cert  .desc p {
+  font-size: 1.5rem;
+}
+.cert  .desc .btns {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  margin-top: 2rem;
+}
+.cert  .desc .btns .btn {
+  line-height: 0;
+  display: inline;
+  padding: 1.5rem 2.5rem;
+  border-radius: 0.5rem;
+  font-size: 1.5rem;
+  color: var(--fade);
+  background: var(--dark-blue);
+  margin-right: 2rem;
+}
+.cert  .desc .btns .btn:hover {
+  color: var(--pure);
+}
+.cert  .viewall {
+  display: flex;
+  justify-content: center;
+}
+.cert  .viewall .btn {
+  position: relative;
+  line-height: 0;
+  padding: 1.6rem 3rem;
+  border-radius: 0.5em;
+  transition: 0.5s;
+  color: var(--fade);
+  background-color:var(--dark-blue);
+  font-weight: 700;
+  border: 2px solid #fff;
+  box-shadow: 0px 5px 10px var(--dark-blue);
+  text-align: center;
+}
+.cert  .viewall .btn span {
+  font-weight: 600;
+  font-size: 1.7rem;
+  font-family: "Nunito", sans-serif;
+}
+.cert  .viewall .btn i {
+  margin-left: 0.3rem;
+  font-size: 1.5rem;
+  transition: 0.3s;
+}
+.cert  .viewall .btn:hover {
+  background: var(--dark-blue);
+  color: var(--pure);
+}
+.cert  .viewall .btn:hover i {
+  transform: translateX(5px);
+}
+/* work   section ends */
+
 
 /* contact section starts */
 .contact {
