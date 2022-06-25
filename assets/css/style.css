@@ -491,7 +491,7 @@ header .navbar ul li a:hover {
   color: var(--mild);
 } 
 .skills .container {
-  background: rgba(0, 0, 22, 0.4);
+  /* background: rgba(0, 0, 22, 0.4); */
   color: #fff;
   border-radius: 1rem;
   padding: 2rem;
@@ -514,8 +514,8 @@ header .navbar ul li a:hover {
   transition: 0.2s;
 }
 .skills .container .bar:hover {
-  box-shadow: 0 8px 10px var(--dark-gray) !important;
-  background-color: var(--dark-gray) !important;
+  /* box-shadow: 0 8px 10px var(--dark-gray) !important; */
+  background-color: #253358 !important;
 }
 .skills .container .bar .info {
   display: flex;
