@@ -2,7 +2,97 @@
           {
             "name": "a",
             "desc": "",
-            "image": "",
+            "image": "a",
+            "category": "2022",
+            "links": {
+              "view": "https://ankitkr10.netlify.app/slider/",
+              "download": ""
+            }
+          },
+          {
+            "name": "b",
+            "desc": "",
+            "image": "b",
+            "category": "2022",
+            "links": {
+              "view": "https://ankitkr10.netlify.app/slider/",
+              "download": ""
+            }
+          },
+          {
+            "name": "c",
+            "desc": "",
+            "image": "c",
+            "category": "2022",
+            "links": {
+              "view": "https://ankitkr10.netlify.app/slider/",
+              "download": ""
+            }
+          },
+          {
+            "name": "d",
+            "desc": "",
+            "image": "d",
+            "category": "2022",
+            "links": {
+              "view": "https://ankitkr10.netlify.app/slider/",
+              "download": ""
+            }
+          },
+          {
+            "name": "e",
+            "desc": "",
+            "image": "e",
+            "category": "2022",
+            "links": {
+              "view": "https://ankitkr10.netlify.app/slider/",
+              "download": ""
+            }
+          },
+           {
+            "name": "f",
+            "desc": "",
+            "image": "f",
+            "category": "2022",
+            "links": {
+              "view": "https://ankitkr10.netlify.app/slider/",
+              "download": ""
+            }
+          },
+           {
+            "name": "g",
+            "desc": "",
+            "image": "g",
+            "category": "2022",
+            "links": {
+              "view": "https://ankitkr10.netlify.app/slider/",
+              "download": ""
+            }
+          },
+           {
+            "name": "h",
+            "desc": "",
+            "image": "h",
+            "category": "2022",
+            "links": {
+              "view": "https://ankitkr10.netlify.app/slider/",
+              "download": ""
+            }
+          }
+           ,{
+            "name": "i",
+            "desc": "",
+            "image": "i",
+            "category": "2022",
+            "links": {
+              "view": "https://ankitkr10.netlify.app/slider/",
+              "download": ""
+            }
+          },
+           {
+            "name": "j",
+            "desc": "",
+            "image": "j",
             "category": "2022",
             "links": {
               "view": "https://ankitkr10.netlify.app/slider/",

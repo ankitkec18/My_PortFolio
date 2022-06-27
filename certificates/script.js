@@ -47,7 +47,7 @@ $(document).ready(function () {
               certificatesHTML += `
               <div class="grid-item ${Certificates.category}">
               <div class="box tilt" style="width: 380px; margin: 1rem">
-            <img draggable="false" src="/assets/images/projects/${Certificates.image}.png" alt="Certificates" />
+            <img draggable="false" src="/assets/images/certificates/${Certificates.image}.png" alt="Certificates" />
             <div class="content">
               <div class="tag">
               <h3>${Certificates.name}</h3>

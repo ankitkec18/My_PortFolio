@@ -16,7 +16,7 @@ async function fetchData(type = "skills") {
           certificates.slice(0, 6).forEach(certificate => {
               certificateHTML += `
             <div class="box tilt">
-            <img draggable="false" src="/assets/images/projects/${certificate.image}.png" alt="certificate" />
+            <img draggable="false" src="/assets/images/certificates/${certificate.image}.png" alt="certificate" />
             <div class="content">
               <div class="tag">
               <h3>${certificate.name}</h3>

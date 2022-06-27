@@ -1004,6 +1004,7 @@ header .navbar ul li a:hover {
   padding-left: 1rem;
  background:var(--fade);
 }
+
 .cert  .box-container .box .content .tag h3 {
   font-size: 2rem;
 }
