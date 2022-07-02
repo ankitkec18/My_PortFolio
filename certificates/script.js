@@ -20,7 +20,7 @@ $(document).ready(function () {
       document.addEventListener('visibilitychange',
           function () {
               if (document.visibilityState === "visible") {
-                  document.title = "Certificates | Portfolio ";
+                  document.title = " CERTIFICATES | PORTFOLIO";
                   $("#favicon").attr("href", "/assets/images/ankit.jpg");
               }
               else {

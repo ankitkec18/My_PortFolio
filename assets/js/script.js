@@ -59,7 +59,7 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
    function () {
        if (document.visibilityState === "visible") {
-           document.title = "PORTFOLIO | ANKIT K ";
+           document.title = " ANKIT | PORTFOLIO";
            $("#favicon").attr("href", "assets/images/ankit.jpg");
        }
        else {
