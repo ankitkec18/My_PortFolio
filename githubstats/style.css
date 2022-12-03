@@ -315,7 +315,7 @@ header .navbar ul li a:hover {
   padding: 1.6rem 3rem;
   border-radius: .5em;
   transition: 0.3s;
-  color: var(--primary);
+  color: var(--fade);
   border: 2px solid #fff;
   box-shadow: 0px 5px 10px var(--dark-blue);
   text-align: center;
