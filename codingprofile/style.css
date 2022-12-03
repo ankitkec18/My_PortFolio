@@ -456,7 +456,8 @@ header .navbar ul li a:hover {
 
 .cod-box img {
 
-          width: 250px;
+          width: 200px;
+          height: 200px;
           padding-bottom: 15px;
           
           
@@ -470,5 +471,5 @@ header .navbar ul li a:hover {
           overflow-wrap: break-word;
           color: #7081b9;
           font-size: 15px;
-          margin-left: 50px;
+        
 }
