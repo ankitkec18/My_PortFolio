@@ -428,9 +428,12 @@ header .navbar ul li a:hover {
 }
 .resumebtn {
   margin-top: 5rem;
+ 
 }
 .resumebtn .btn {
-  padding: 1.7rem 3rem;
+  /* padding: 1.7rem 3rem; */
+    padding: 1.6rem 1.2rem;
+
   border-radius: 0.5em;
   transition: 0.3s;
   color: var(--fade);
@@ -440,7 +443,7 @@ header .navbar ul li a:hover {
 }
 .resumebtn .btn span {
   font-weight: 600;
-  font-size: 1.8rem;
+  font-size: 1.5rem;
   letter-spacing: 0.1rem;
 }
 .resumebtn .btn i {
