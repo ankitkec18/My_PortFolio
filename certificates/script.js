@@ -56,8 +56,9 @@ $(document).ready(function () {
                 <p>${Certificates.desc}</p>
                 <div class="btns">
                   <a href="${Certificates.links.view}" class="btn"><i class="fas fa-eye"></i> View</a>
-                  <a href="${Certificates.links.download}" class="btn" target="_blank">Download <i class="fas fa-download"></i></a>
-                </div>
+                  <a href="/assets/images/certificates/${Certificates.links.download}.png "download="cert"class="btn">Download <i class="fas fa-download"></i></a>                
+
+                  </div>
               </div>
             </div>
           </div>

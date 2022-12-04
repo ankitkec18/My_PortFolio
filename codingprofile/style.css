@@ -463,7 +463,7 @@ header .navbar ul li a:hover {
           
 }
 .cod-box img:hover{
-          border: 1px solid #2f2f31;
+          border: 3px solid var(--dark-blue) ;
 }
 
 .cod-name {
