@@ -315,7 +315,7 @@ header .navbar ul li a:hover {
 .backbtn .btn {
   position: relative;
   line-height: 0;
-  padding: 1.6rem 3rem;
+  padding: 1.6rem 1rem;
   border-radius: .5em;
   transition: 0.3s;
   color: var(--fade);
