@@ -25,7 +25,7 @@ async function fetchData(type = "skills") {
                 <p>${certificate.desc}</p>
                 <div class="btns">
                   <a href="${certificate.links.view}" class="btn"><i class="fas fa-eye"></i> View</a>
-                  <a href="assets/images/certificates/${certificate.links.download}.png "download="cert"class="btn">Download <i class="fas fa-download"></i></a>                
+                  <a href="assets/images/certificates/${certificate.links.download}.png "download="Certificate"class="btn">Download <i class="fas fa-download"></i></a>                
                 </div>
               </div>
             </div>
