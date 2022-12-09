@@ -1,103 +1,112 @@
 [
-          {
-            "name": "White Hat hacker and Pen Taster",
-            "desc": "",
-            "image": "a",
-            "category": "2021",
-            "links": {
-              "view": "https://ankitkr10.netlify.app/slider/",
-              "download":"a"
-            }
-          },
-          {
-            "name": "Javascript",
-            "desc": "",
-            "image": "b",
-            "category": "2020",
-            "links": {
-              "view": "https://ankitkr10.netlify.app/slider/",
-              "download": "b"
-            }
-          },
-          {
-            "name": "Data Structure and Algorithms",
-            "desc": "",
-            "image": "c",
-            "category": "2022",
-            "links": {
-              "view": "https://ankitkr10.netlify.app/slider/",
-              "download": "c"
-            }
-          },
-          {
-            "name": "C Language",
-            "desc": "",
-            "image": "d",
-            "category": "2022",
-            "links": {
-              "view": "https://ankitkr10.netlify.app/slider/",
-              "download": "d"
-            }
-          },
-          {
-            "name": "Digital Marketing",
-            "desc": "",
-            "image": "e",
-            "category": "2022",
-            "links": {
-              "view": "https://ankitkr10.netlify.app/slider/",
-              "download": "e"
-            }
-          },
-           {
-            "name": "Data Structure and Algorithms",
-            "desc": "",
-            "image": "f",
-            "category": "2022",
-            "links": {
-              "view": "https://ankitkr10.netlify.app/slider/",
-              "download": "f"
-            }
-          },
-           {
-            "name": "Javascript",
-            "desc": "",
-            "image": "g",
-            "category": "2022",
-            "links": {
-              "view": "https://ankitkr10.netlify.app/slider/",
-              "download": "g"
-            }
-          },
-           {
-            "name": "C++",
-            "desc": "",
-            "image": "h",
-            "category": "2022",
-            "links": {
-              "view": "https://ankitkr10.netlify.app/slider/",
-              "download": "h"
-            }
-          }
-           ,{
-            "name": "Ethical Hacking",
-            "desc": "",
-            "image": "i",
-            "category": "2022",
-            "links": {
-              "view": "https://ankitkr10.netlify.app/slider/",
-              "download": "i"
-            }
-          },
-           {
-            "name": "Ethical Hacking",
-            "desc": "",
-            "image": "j",
-            "category": "2022",
-            "links": {
-              "view": "https://ankitkr10.netlify.app/slider/",
-              "download": "j"
-            }
-          }
-         
-        ]
+  {
+    "name": "100 Days Code",
+    "desc": "",
+    "image": "k",
+    "category": "2021",
+    "links": {
+      "view": "https://ankitkr10.netlify.app/slider/",
+      "download": "k"
+    }
+  },
+  {
+    "name": "Ethical Hacking",
+    "desc": "",
+    "image": "j",
+    "category": "2022",
+    "links": {
+      "view": "https://ankitkr10.netlify.app/slider/",
+      "download": "j"
+    }
+  },
+  {
+    "name": "Ethical Hacking",
+    "desc": "",
+    "image": "i",
+    "category": "2022",
+    "links": {
+      "view": "https://ankitkr10.netlify.app/slider/",
+      "download": "i"
+    }
+  },
+  {
+    "name": "C++",
+    "desc": "",
+    "image": "h",
+    "category": "2022",
+    "links": {
+      "view": "https://ankitkr10.netlify.app/slider/",
+      "download": "h"
+    }
+  },
+  {
+    "name": "Javascript",
+    "desc": "",
+    "image": "g",
+    "category": "2022",
+    "links": {
+      "view": "https://ankitkr10.netlify.app/slider/",
+      "download": "g"
+    }
+  },
+  {
+    "name": "Data Structure and Algorithms",
+    "desc": "",
+    "image": "f",
+    "category": "2022",
+    "links": {
+      "view": "https://ankitkr10.netlify.app/slider/",
+      "download": "f"
+    }
+  },
+  {
+    "name": "Digital Marketing",
+    "desc": "",
+    "image": "e",
+    "category": "2022",
+    "links": {
+      "view": "https://ankitkr10.netlify.app/slider/",
+      "download": "e"
+    }
+  },
+  {
+    "name": "C Language",
+    "desc": "",
+    "image": "d",
+    "category": "2022",
+    "links": {
+      "view": "https://ankitkr10.netlify.app/slider/",
+      "download": "d"
+    }
+  },
+  {
+    "name": "Data Structure and Algorithms",
+    "desc": "",
+    "image": "c",
+    "category": "2022",
+    "links": {
+      "view": "https://ankitkr10.netlify.app/slider/",
+      "download": "c"
+    }
+  },
+  {
+    "name": "Javascript",
+    "desc": "",
+    "image": "b",
+    "category": "2020",
+    "links": {
+      "view": "https://ankitkr10.netlify.app/slider/",
+      "download": "b"
+    }
+  },
+  {
+    "name": "White Hat hacker and Pen Taster",
+    "desc": "",
+    "image": "a",
+    "category": "2021",
+    "links": {
+      "view": "https://ankitkr10.netlify.app/slider/",
+      "download": "a"
+    }
+  }
+]
