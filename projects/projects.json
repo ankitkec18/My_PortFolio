@@ -2,7 +2,7 @@
   {
     "name": "Youtube Clone 🆕 ",
     "desc": "",
-    "image": "p8",
+    "image": "YoutubeClone",
     "category": "",
     "links": {
       "view": "https://ytubee-clone.netlify.app/",
@@ -12,7 +12,7 @@
   {
     "name": "React Weather App 🆕 ",
     "desc": "",
-    "image": "p7",
+    "image": "weatherapp",
     "category": "",
     "links": {
       "view": "",
@@ -23,13 +23,24 @@
   {
     "name": "React Todo List ",
     "desc": "",
-    "image": "p6",
+    "image": "Todolist",
     "category": "",
     "links": {
       "view": "",
       "code": ""
     }
   },
+  {
+    "name": "Restaurant App ",
+    "desc": "",
+    "image": "Restaurantapp",
+    "category": "",
+    "links": {
+      "view": "https://restaurantss-app.netlify.app/",
+      "code": ""
+    }
+  },
+  
   {
     "name": "Covid Tracker Website",
     "desc": "",

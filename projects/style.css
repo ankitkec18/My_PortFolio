@@ -259,6 +259,7 @@ header .navbar ul li a:hover {
 }
 .work .box-container .box .content .tag h3{
   font-size: 2rem;
+  color: #012970;
 }
 .work .box-container .box:hover .content{
   top: 25%;
