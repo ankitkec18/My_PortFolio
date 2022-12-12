@@ -1,5 +1,15 @@
 [
   {
+    "name": "Youtube Clone 🆕 ",
+    "desc": "",
+    "image": "p8",
+    "category": "",
+    "links": {
+      "view": "https://ytubee-clone.netlify.app/",
+      "code": ""
+    }
+  },
+  {
     "name": "React Weather App 🆕 ",
     "desc": "",
     "image": "p7",
@@ -11,7 +21,7 @@
   },
   
   {
-    "name": "React Todo List 🆕 ",
+    "name": "React Todo List ",
     "desc": "",
     "image": "p6",
     "category": "",
@@ -64,16 +74,6 @@
     "name": "Weather Info",
     "desc": "",
     "image": "p5",
-    "category": "",
-    "links": {
-      "view": "",
-      "code": ""
-    }
-  },
-  {
-    "name": "Covid Tracker Website",
-    "desc": "",
-    "image": "p1",
     "category": "",
     "links": {
       "view": "",
