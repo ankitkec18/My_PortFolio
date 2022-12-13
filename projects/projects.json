@@ -10,6 +10,16 @@
     }
   },
   {
+    "name": "Google Clone 🆕 ",
+    "desc": "",
+    "image": "googleclone",
+    "category": "",
+    "links": {
+      "view": "https://googleeclone.netlify.app/",
+      "code": ""
+    }
+  },
+  {
     "name": "React Weather App 🆕 ",
     "desc": "",
     "image": "weatherapp",
