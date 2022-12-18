@@ -1,5 +1,25 @@
 [
   {
+    "name": "Cyber Security",
+    "desc": "",
+    "image": "m",
+    "category": "2021",
+    "links": {
+      "view": "https://ankitkr10.netlify.app/slider/",
+      "download": "m"
+    }
+  },
+  {
+    "name": "Git and Github",
+    "desc": "",
+    "image": "l",
+    "category": "2021",
+    "links": {
+      "view": "https://ankitkr10.netlify.app/slider/",
+      "download": "l"
+    }
+  },
+  {
     "name": "100 Days Code",
     "desc": "",
     "image": "k",
