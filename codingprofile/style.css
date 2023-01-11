@@ -463,9 +463,8 @@ header .navbar ul li a:hover {
           
 }
 .cod-box img:hover{
-          border: 3px solid var(--dark-blue) ;
+           border: 6px #7081b9; 
 }
-
 .cod-name {
           text-align: center;
           overflow-wrap: break-word;
