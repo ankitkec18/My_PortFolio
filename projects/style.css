@@ -114,6 +114,8 @@ header .navbar ul li a{
   font-weight: 600;
   text-decoration: none;
   letter-spacing: 0.04rem;
+  text-transform: uppercase;
+
 }
 header .navbar ul li a.active,
 header .navbar ul li a:hover {
@@ -123,60 +125,6 @@ header .navbar ul li a:hover {
 }
 /* navbar ends */
 
-/* hamburger icon starts*/
-#menu{
-  font-size: 3rem;
-  cursor: pointer;
-  color: var(--fade);
-  display: none;
-}
-@media(max-width:768px){
-  #menu{
-      display: block;
-  }
-  header .navbar{
-    position: fixed;
-    top: 6.5rem; right: -120%;
-    width: 75%;
-    height: 100%;
-    text-align: left;
-    align-items: flex-start;
-    background-color:var(--dark-blue);
-
-  }
-  header .navbar ul{
-    flex-flow: column;
-    padding: 1rem;
-  }
-  header .navbar ul li{
-    text-align: center;
-    width: 100%;
-    margin: 1rem 0;
-    border-radius: .5rem;
-    width: 26rem;
-  }
-  header .navbar ul li a{
-    display: block;
-    padding: 1rem;
-    text-align: left;
-    color: var(--fade);
-    font-size: 2rem;
-  }
-  header .navbar ul li a.active,
-  header .navbar ul li a:hover{
-    padding: 1rem;
-    color: var(--pure);
-    border-radius: .5rem;
-    border-bottom: 0.5rem solid var(--pure);
-  }
-  .fa-times{
-    transform: rotate(180deg);
-  }
-  header .navbar.nav-toggle{
-    right: 0;
-  }
-}
-/* hamburger icon ends */
 
 /* work section starts */
 .work{
