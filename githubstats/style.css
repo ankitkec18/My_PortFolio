@@ -114,6 +114,8 @@ header .navbar ul li a{
   font-weight: 600;
   text-decoration: none;
   letter-spacing: 0.04rem;
+  text-transform: uppercase;
+
 }
 header .navbar ul li a.active,
 header .navbar ul li a:hover {
